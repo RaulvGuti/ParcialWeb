@@ -15,8 +15,6 @@
 
 
 
-## Endpoints
-
-Serie 2 Figma
+## Serie 2 FIGMA
 
 https://www.figma.com/make/ASQFRZ6jSX6DWgkLJkpl8X/Redise%C3%B1o-a-panel-principal-estudiantes?fullscreen=1&t=eQBp5G9ycsW7p1T1-1&code-node-id=0-6
